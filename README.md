@@ -1,4 +1,4 @@
-# Shipping Data Exploratory Data Analysis
+# Shipping Exploratory Data Analysis
 An international e-commerce company based wants to discover key insights from their customer database.
 
 ## Data Exploration
